@@ -1,5 +1,5 @@
 # rob-_acesso
-Criação de um robô que faz login com a biblioteca pupperteer
+Criação de um robô que faz autenticação login e senha com a biblioteca pupperteer
 const puppeteer = require('puppeteer');
 
 (async () => {
